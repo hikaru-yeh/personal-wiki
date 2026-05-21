@@ -1,6 +1,6 @@
 # Personal-Wiki-Rules
 
-A sanitized rule framework for an LLM-maintained personal wiki.
+A sanitized rule framework for an LLM-maintained personal wiki built with the concept of ['llm-wiki by Karpathy'](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) with upgraded framework of ['llm-wiki-v2'](https://gist.github.com/rohitg00/2067ab416f7bbe447c1977edaaa681e2)
 
 This repository demonstrates how I designed an agent-operated knowledge system that can turn messy personal source material into structured wiki pages while preserving privacy, auditability, and long-term maintainability. The original private vault contains personal notes and source material; this public version keeps only the reusable structure, operating rules, and safe example pages.
 
